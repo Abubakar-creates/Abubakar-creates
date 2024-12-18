@@ -13,3 +13,13 @@ I'm excited about collaborating with fellow developers. Whether you'd like to de
 
 🤝 Together, let's revolutionize the digital landscape, creating optimized and user-friendly websites.
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Abubakar-creates?pet-id=657209301711570149"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
