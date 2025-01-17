@@ -21,5 +21,7 @@ I'm excited about collaborating with fellow developers. Whether you'd like to de
     height="120"
   />
 </a>
+
+<a href="https://app.daily.dev/abubakar8"><img src="https://api.daily.dev/devcards/v2/KoQQ7cGvoJAIQAnZITpz6.png?type=default&r=ry5" width="356" alt="Abubakar's Dev Card"/></a>
   
 
